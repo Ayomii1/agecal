@@ -68,7 +68,7 @@ body {
     display: flex;
     flex-direction: column;
     font-size: var(--fs-s);
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 2px;
     gap: 11px;
 }
