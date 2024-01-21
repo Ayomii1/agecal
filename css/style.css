@@ -79,7 +79,7 @@ input {
     outline: none;
     border: 1px solid var(--lg);
     border-radius: 11px;
-    padding: 10px;
+    padding: 20px;
     font-size: var(--fs-l);
     font-weight: 700;
     caret-color: var(--pple);
